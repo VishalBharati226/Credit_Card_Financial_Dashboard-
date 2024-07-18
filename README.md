@@ -12,8 +12,8 @@ effectively.
 Project Insights-
 WoW change: 
 • Revenue increased by 28.8%, 
-• Total Transaction Amt & Count increased by xx% & xx%
-• Customer count increased by xx%
+• Total Transaction Amt & Count increased by 46m & 667k
+• Customer Total interest 7.89m
 Overview YTD:
 • Overall revenue is 57M
 • Total interest is 8M
